@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "Fill the online Form C from json",
+  "version": "19.1126.0823",
+  "description": "Fill the online Form C from json",
+  "browser_action": {
+    "default_icon": "icon32.png",
+    "default_popup": "popup.html",
+    "default_title": "Fill the online Form C from json"
+  },
+  "permissions": [
+    "https://www.indianfrro.gov.in/*",
+    "https://bestia.dev/formc/*",
+    "activeTab",
+    "storage"
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png",
+    "192": "icon192.png"
+  }
+}
