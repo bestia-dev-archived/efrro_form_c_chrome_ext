@@ -1,4 +1,4 @@
-# Fill online Form C from JSON
+# Fill the online Form C from JSON
 
 *Things are changing fast. This is the situation on 2019-12-25.*  
 Chrome extension to fill the online Form C from JSON.  
@@ -27,14 +27,14 @@ This extension has permission to modify form data only on this websites:
 `https://www.indianfrro.gov.in/`  
 `https://bestia.dev/formc/`  
 
-Try it on this example:  
+Try it first on this example:  
 open the JSON data file  
 <https://bestia.dev/formc/example/formc.json>  
-and copy it to the clipboard.  
+then select all (ctrl+a) and copy it (ctrl+c) to the clipboard.  
 Then open the webpage  
 <https://bestia.dev/formc/example/formc.html>  
 start the extension and  
-paste the data from the clipboard.  
+paste (ctrl+v) the data from the clipboard.  
 Click on the button `Fill Form`.  
 Done.  
 
