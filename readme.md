@@ -46,8 +46,8 @@ In `<chrome://extensions/>` enable `Developer mode` and then use `Load unpacked`
 ## Publishing
 
 Publishing a Chrome Extension to Chrome Web Store is fairly easy.  
-Before you publish your first app, you must pay a one-time $5 developer signup fee.
-<https://developer.chrome.com/webstore/publish>
-<https://www.freecodecamp.org/news/how-to-create-and-publish-a-chrome-extension-in-20-minutes-6dc8395d7153/>
+Before you publish your first app, you must pay a one-time $5 developer signup fee.  
+<https://developer.chrome.com/webstore/publish>  
+<https://www.freecodecamp.org/news/how-to-create-and-publish-a-chrome-extension-in-20-minutes-6dc8395d7153/>  
 The extension can be maintained through the dashboard.  
 <https://chrome.google.com/webstore/developer/dashboard>  
