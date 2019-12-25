@@ -18,7 +18,7 @@ The source code is published on GitHub and anybody can inspect it to see there i
 
 ## OpenSource
 
-This is an open source application. It is free of charge as in free beer.  
+This is an OpenSource application. It is free of charge as in free beer.  
 Anybody can use this application and its source code for their needs.  
 
 ## Example
