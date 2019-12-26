@@ -1,12 +1,13 @@
 {
   "manifest_version": 2,
-  "name": "Fill the online Form C from json",
-  "version": "19.1126.0823",
-  "description": "Fill the online Form C from json",
+  "name": "Fill the Online Form C from json",
+  "short_name": "Fill Form C",
+  "version": "19.1226.1006",
+  "description": "Every Indian accommodation must Fill the online Form C for every foreign guest. This Chrome extension makes the work easier.",
   "browser_action": {
     "default_icon": "icon32.png",
     "default_popup": "popup.html",
-    "default_title": "Fill the online Form C from json"
+    "default_title": "Fill the Online Form C from json"
   },
   "permissions": [
     "https://www.indianfrro.gov.in/*",

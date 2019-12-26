@@ -51,3 +51,7 @@ Before you publish your first app, you must pay a one-time $5 developer signup f
 <https://www.freecodecamp.org/news/how-to-create-and-publish-a-chrome-extension-in-20-minutes-6dc8395d7153/>  
 The extension can be maintained through the dashboard.  
 <https://chrome.google.com/webstore/developer/dashboard>  
+
+## Support
+Maybe the best way to support this app is with a group with questions and answers  
+<https://groups.google.com/forum/#!forum/bestiaformc>  

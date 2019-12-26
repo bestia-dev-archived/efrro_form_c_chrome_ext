@@ -1,0 +1,28 @@
+Fill the online Form C from json
+Respected accommodation manager,
+Every accommodation in India must fill the Form C for every foreigner.
+The "Online Form C" is very useful, but filling it for many guests is hard, because of many data it requires. The person who works with Form C knows that problem.
+This simple Chrome Extension helps you to fill this form.
+It is open source and completely free to use. It is published on Chrome WebStore and the source code is free to inspect and check there is no malware or dangerous code and no data is ever transferred over the network:
+https://github.com/LucianoBestia/efrro_form_c_chrome_ext
+This Chrome extension does only one thing: it fills the form with the data provided in JSON format. The JSON format is a standard web exchange format in clear and readable text. It can be easily copied, saved, modified and read.
+I recommend to try it first on one simple example on a copy of the real Form C:
+1. First, install the Extension from the Chrome WebStore. Click on the button "Add to Chrome".
+2. You need some data in JSON format. Open this:
+https://bestia.dev/formc/example/formc.json
+and copy all (ctrl+a) to the clipboard (ctrl+c).
+3.Then open the web page (a copy of the real online Form C):
+https://bestia.dev/formc/example/formc.html
+4.Start the extension (click on the icon in the right top corner).
+And here paste (ctrl+v) the text from the clipboard.
+5. Click on the button "Fill Form".
+You can now see the data in Form C. As simple as that.
+If it does not work the first time, try to close and reopen Chrome and repeat the process.
+You can now read the data in the form, probably you will need to add some data or correct and then you can press the Submit button. The Extension does NOT press the Submit button for you. You have time to check and correct the data prior to submitting or canceling the process.
+The guests prepare the JSON data for you !
+Ask the guest kindly to fill this web page form in their personal smartphone:
+https://bestia.dev/formc
+After finishing the guest sends the "result JSON" data to you in an email.
+This web page is prepared for modern smartphone browsers (chrome, firefox, safari). It does not work on very old, not updated or unusual browsers because of security and comfort.
+YOu can find more instructions here:
+https://bestia.dev/formc/example/FormCInvite.html
