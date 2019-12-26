@@ -3,7 +3,7 @@
 *Things are changing fast. This is the situation on 2019-12-25.*  
 Chrome extension to fill the online Form C from JSON.  
 It is published on Google WebStore:  
-<https://chrome.google.com/webstore/detail/?????>  
+<https://chrome.google.com/webstore/detail/fill-the-online-form-c-fr/echcbgpcbpnpjdnpckmomhdjgecifbaa>  
 
 Repeatedly filling the online Form C is boring, time consuming and error prone.  
 It is better to save the data as JSON and use that to fill the forms  
