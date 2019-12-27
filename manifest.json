@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Fill the Online Form C from json",
   "short_name": "Fill Form C",
-  "version": "19.1227.1919",
+  "version": "19.1227.2013",
   "description": "Every Indian accommodation must Fill the online Form C for every foreign guest. This Chrome extension makes the work easier.",
   "browser_action": {
     "default_icon": "icon32.png",
