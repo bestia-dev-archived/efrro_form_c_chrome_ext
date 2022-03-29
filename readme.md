@@ -1,7 +1,7 @@
 # efrro_form_c_chrome_ext - Fill the online Form C from JSON (2019-12)
 
 **Chrome extension to fill the online Form C from JSON**  
-***version: 1.0  date: 2019-12-25 author: [dev_Bestia](https://bestia.dev) repository: [GitHub](https://github.com/LucianoBestia/efrro_form_c_chrome_ext)***  
+***version: 1.0  date: 2019-12-25 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/bestia-dev/efrro_form_c_chrome_ext)***  
 
 It is published on Google WebStore:  
 <https://chrome.google.com/webstore/detail/fill-the-online-form-c-fr/echcbgpcbpnpjdnpckmomhdjgecifbaa>  

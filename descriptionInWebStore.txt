@@ -4,7 +4,7 @@ Every accommodation in India must fill the Form C for every foreigner.
 The "Online Form C" is very useful, but filling it for many guests is hard, because of many data it requires. The person who works with Form C knows that problem.
 This simple Chrome Extension helps you to fill this form.
 It is open source and completely free to use. It is published on Chrome WebStore and the source code is free to inspect and check there is no malware or dangerous code and no data is ever transferred over the network:
-https://github.com/LucianoBestia/efrro_form_c_chrome_ext
+https://github.com/bestia-dev/efrro_form_c_chrome_ext
 This Chrome extension does only one thing: it fills the form with the data provided in JSON format. The JSON format is a standard web exchange format in clear and readable text. It can be easily copied, saved, modified and read.
 I recommend to try it first on one simple example on a copy of the real Form C:
 1. First, install the Extension from the Chrome WebStore. Click on the button "Add to Chrome".
